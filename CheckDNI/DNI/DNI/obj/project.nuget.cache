@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LHhfQ9wWiQterO/57oIngkUmUyehGIJdPVY8dG9nzrc6ItSxja22jscGZRB8+v+LHl2YjWNCt+YlOfjvkBM3JQ==",
+  "success": true,
+  "projectFilePath": "G:\\Мой диск\\DAM2\\DI\\CheckDNI\\DNI\\DNI\\DNI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alina\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

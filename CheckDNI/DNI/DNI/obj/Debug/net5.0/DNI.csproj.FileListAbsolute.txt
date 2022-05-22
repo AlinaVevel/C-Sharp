@@ -1,0 +1,16 @@
+G:\Мой диск\DAM2\DI\CheckDNI\DNI\DNI\bin\Debug\net5.0\DNI.exe
+G:\Мой диск\DAM2\DI\CheckDNI\DNI\DNI\bin\Debug\net5.0\DNI.deps.json
+G:\Мой диск\DAM2\DI\CheckDNI\DNI\DNI\bin\Debug\net5.0\DNI.runtimeconfig.json
+G:\Мой диск\DAM2\DI\CheckDNI\DNI\DNI\bin\Debug\net5.0\DNI.runtimeconfig.dev.json
+G:\Мой диск\DAM2\DI\CheckDNI\DNI\DNI\bin\Debug\net5.0\DNI.dll
+G:\Мой диск\DAM2\DI\CheckDNI\DNI\DNI\bin\Debug\net5.0\ref\DNI.dll
+G:\Мой диск\DAM2\DI\CheckDNI\DNI\DNI\bin\Debug\net5.0\DNI.pdb
+G:\Мой диск\DAM2\DI\CheckDNI\DNI\DNI\obj\Debug\net5.0\DNI.csproj.AssemblyReference.cache
+G:\Мой диск\DAM2\DI\CheckDNI\DNI\DNI\obj\Debug\net5.0\DNI.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\DAM2\DI\CheckDNI\DNI\DNI\obj\Debug\net5.0\DNI.AssemblyInfoInputs.cache
+G:\Мой диск\DAM2\DI\CheckDNI\DNI\DNI\obj\Debug\net5.0\DNI.AssemblyInfo.cs
+G:\Мой диск\DAM2\DI\CheckDNI\DNI\DNI\obj\Debug\net5.0\DNI.csproj.CoreCompileInputs.cache
+G:\Мой диск\DAM2\DI\CheckDNI\DNI\DNI\obj\Debug\net5.0\DNI.dll
+G:\Мой диск\DAM2\DI\CheckDNI\DNI\DNI\obj\Debug\net5.0\ref\DNI.dll
+G:\Мой диск\DAM2\DI\CheckDNI\DNI\DNI\obj\Debug\net5.0\DNI.pdb
+G:\Мой диск\DAM2\DI\CheckDNI\DNI\DNI\obj\Debug\net5.0\DNI.genruntimeconfig.cache
