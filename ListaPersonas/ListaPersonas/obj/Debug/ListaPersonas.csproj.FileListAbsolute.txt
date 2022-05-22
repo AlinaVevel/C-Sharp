@@ -1,0 +1,22 @@
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\ListaPersonas\ListaPersonas\obj\Debug\ListaPersonas.csproj.AssemblyReference.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\ListaPersonas\ListaPersonas\obj\Debug\ListaPersonas.csproj.SuggestedBindingRedirects.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\ListaPersonas\ListaPersonas\obj\Debug\ListaPersonas.Form1.resources
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\ListaPersonas\ListaPersonas\obj\Debug\ListaPersonas.Properties.Resources.resources
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\ListaPersonas\ListaPersonas\obj\Debug\ListaPersonas.csproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\ListaPersonas\ListaPersonas\obj\Debug\ListaPersonas.csproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\ListaPersonas\ListaPersonas\bin\Debug\ListaPersonas.exe.config
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\ListaPersonas\ListaPersonas\bin\Debug\ListaPersonas.exe
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\ListaPersonas\ListaPersonas\bin\Debug\ListaPersonas.pdb
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\ListaPersonas\ListaPersonas\obj\Debug\ListaPersonas.exe
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\ListaPersonas\ListaPersonas\obj\Debug\ListaPersonas.pdb
+D:\Interfaces\ListaPersonas\ListaPersonas\bin\Debug\ListaPersonas.exe.config
+D:\Interfaces\ListaPersonas\ListaPersonas\bin\Debug\ListaPersonas.exe
+D:\Interfaces\ListaPersonas\ListaPersonas\bin\Debug\ListaPersonas.pdb
+D:\Interfaces\ListaPersonas\ListaPersonas\obj\Debug\ListaPersonas.csproj.AssemblyReference.cache
+D:\Interfaces\ListaPersonas\ListaPersonas\obj\Debug\ListaPersonas.csproj.SuggestedBindingRedirects.cache
+D:\Interfaces\ListaPersonas\ListaPersonas\obj\Debug\ListaPersonas.Form1.resources
+D:\Interfaces\ListaPersonas\ListaPersonas\obj\Debug\ListaPersonas.Properties.Resources.resources
+D:\Interfaces\ListaPersonas\ListaPersonas\obj\Debug\ListaPersonas.csproj.GenerateResource.cache
+D:\Interfaces\ListaPersonas\ListaPersonas\obj\Debug\ListaPersonas.csproj.CoreCompileInputs.cache
+D:\Interfaces\ListaPersonas\ListaPersonas\obj\Debug\ListaPersonas.exe
+D:\Interfaces\ListaPersonas\ListaPersonas\obj\Debug\ListaPersonas.pdb

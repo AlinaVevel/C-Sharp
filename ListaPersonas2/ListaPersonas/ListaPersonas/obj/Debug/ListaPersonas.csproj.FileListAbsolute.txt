@@ -1,0 +1,11 @@
+D:\Interfaces\ListaPersonas2\ListaPersonas\ListaPersonas\bin\Debug\ListaPersonas.exe.config
+D:\Interfaces\ListaPersonas2\ListaPersonas\ListaPersonas\bin\Debug\ListaPersonas.exe
+D:\Interfaces\ListaPersonas2\ListaPersonas\ListaPersonas\bin\Debug\ListaPersonas.pdb
+D:\Interfaces\ListaPersonas2\ListaPersonas\ListaPersonas\obj\Debug\ListaPersonas.csproj.AssemblyReference.cache
+D:\Interfaces\ListaPersonas2\ListaPersonas\ListaPersonas\obj\Debug\ListaPersonas.csproj.SuggestedBindingRedirects.cache
+D:\Interfaces\ListaPersonas2\ListaPersonas\ListaPersonas\obj\Debug\ListaPersonas.Form1.resources
+D:\Interfaces\ListaPersonas2\ListaPersonas\ListaPersonas\obj\Debug\ListaPersonas.Properties.Resources.resources
+D:\Interfaces\ListaPersonas2\ListaPersonas\ListaPersonas\obj\Debug\ListaPersonas.csproj.GenerateResource.cache
+D:\Interfaces\ListaPersonas2\ListaPersonas\ListaPersonas\obj\Debug\ListaPersonas.csproj.CoreCompileInputs.cache
+D:\Interfaces\ListaPersonas2\ListaPersonas\ListaPersonas\obj\Debug\ListaPersonas.exe
+D:\Interfaces\ListaPersonas2\ListaPersonas\ListaPersonas\obj\Debug\ListaPersonas.pdb
