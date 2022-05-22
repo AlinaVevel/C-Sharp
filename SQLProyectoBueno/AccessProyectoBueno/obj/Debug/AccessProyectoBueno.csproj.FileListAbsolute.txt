@@ -1,0 +1,36 @@
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\AccessProyectoBueno\AccessProyectoBueno\bin\Debug\AccessProyectoBueno.exe.config
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\AccessProyectoBueno\AccessProyectoBueno\bin\Debug\AccessProyectoBueno.exe
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\AccessProyectoBueno\AccessProyectoBueno\bin\Debug\AccessProyectoBueno.pdb
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\AccessProyectoBueno\AccessProyectoBueno\obj\Debug\AccessProyectoBueno.csproj.AssemblyReference.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\AccessProyectoBueno\AccessProyectoBueno\obj\Debug\AccessProyectoBueno.csproj.SuggestedBindingRedirects.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\AccessProyectoBueno\AccessProyectoBueno\obj\Debug\AccessProyectoBueno.Form1.resources
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\AccessProyectoBueno\AccessProyectoBueno\obj\Debug\AccessProyectoBueno.Properties.Resources.resources
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\AccessProyectoBueno\AccessProyectoBueno\obj\Debug\AccessProyectoBueno.csproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\AccessProyectoBueno\AccessProyectoBueno\obj\Debug\AccessProyectoBueno.csproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\AccessProyectoBueno\AccessProyectoBueno\obj\Debug\AccessProyectoBueno.exe
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\AccessProyectoBueno\AccessProyectoBueno\obj\Debug\AccessProyectoBueno.pdb
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\AccessProyectoBueno\AccessProyectoBueno\bin\Debug\Access_Db_Personas.accdb
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\SQLProyectoBueno\AccessProyectoBueno\bin\Debug\Access_Db_Personas.accdb
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\SQLProyectoBueno\AccessProyectoBueno\bin\Debug\AccessProyectoBueno.exe.config
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\SQLProyectoBueno\AccessProyectoBueno\bin\Debug\AccessProyectoBueno.exe
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\SQLProyectoBueno\AccessProyectoBueno\bin\Debug\AccessProyectoBueno.pdb
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\SQLProyectoBueno\AccessProyectoBueno\obj\Debug\AccessProyectoBueno.csproj.AssemblyReference.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\SQLProyectoBueno\AccessProyectoBueno\obj\Debug\AccessProyectoBueno.csproj.SuggestedBindingRedirects.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\SQLProyectoBueno\AccessProyectoBueno\obj\Debug\AccessProyectoBueno.Form1.resources
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\SQLProyectoBueno\AccessProyectoBueno\obj\Debug\AccessProyectoBueno.Properties.Resources.resources
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\SQLProyectoBueno\AccessProyectoBueno\obj\Debug\AccessProyectoBueno.csproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\SQLProyectoBueno\AccessProyectoBueno\obj\Debug\AccessProyectoBueno.csproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\SQLProyectoBueno\AccessProyectoBueno\obj\Debug\AccessProyectoBueno.exe
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\SEGUNDO TRIMESTRE\SQLProyectoBueno\AccessProyectoBueno\obj\Debug\AccessProyectoBueno.pdb
+D:\Interfaces\SQLProyectoBueno\AccessProyectoBueno\bin\Debug\Access_Db_Personas.accdb
+D:\Interfaces\SQLProyectoBueno\AccessProyectoBueno\bin\Debug\AccessProyectoBueno.exe.config
+D:\Interfaces\SQLProyectoBueno\AccessProyectoBueno\bin\Debug\AccessProyectoBueno.exe
+D:\Interfaces\SQLProyectoBueno\AccessProyectoBueno\bin\Debug\AccessProyectoBueno.pdb
+D:\Interfaces\SQLProyectoBueno\AccessProyectoBueno\obj\Debug\AccessProyectoBueno.csproj.AssemblyReference.cache
+D:\Interfaces\SQLProyectoBueno\AccessProyectoBueno\obj\Debug\AccessProyectoBueno.csproj.SuggestedBindingRedirects.cache
+D:\Interfaces\SQLProyectoBueno\AccessProyectoBueno\obj\Debug\AccessProyectoBueno.Form1.resources
+D:\Interfaces\SQLProyectoBueno\AccessProyectoBueno\obj\Debug\AccessProyectoBueno.Properties.Resources.resources
+D:\Interfaces\SQLProyectoBueno\AccessProyectoBueno\obj\Debug\AccessProyectoBueno.csproj.GenerateResource.cache
+D:\Interfaces\SQLProyectoBueno\AccessProyectoBueno\obj\Debug\AccessProyectoBueno.csproj.CoreCompileInputs.cache
+D:\Interfaces\SQLProyectoBueno\AccessProyectoBueno\obj\Debug\AccessProyectoBueno.exe
+D:\Interfaces\SQLProyectoBueno\AccessProyectoBueno\obj\Debug\AccessProyectoBueno.pdb
