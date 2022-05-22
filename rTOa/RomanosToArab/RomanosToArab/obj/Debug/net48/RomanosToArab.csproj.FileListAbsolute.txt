@@ -1,0 +1,11 @@
+G:\Мой диск\DAM2\DI\rTOa\RomanosToArab\RomanosToArab\obj\Debug\net48\RomanosToArab.csproj.AssemblyReference.cache
+G:\Мой диск\DAM2\DI\rTOa\RomanosToArab\RomanosToArab\obj\Debug\net48\RomanosToArab.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\DAM2\DI\rTOa\RomanosToArab\RomanosToArab\obj\Debug\net48\RomanosToArab.AssemblyInfoInputs.cache
+G:\Мой диск\DAM2\DI\rTOa\RomanosToArab\RomanosToArab\obj\Debug\net48\RomanosToArab.AssemblyInfo.cs
+G:\Мой диск\DAM2\DI\rTOa\RomanosToArab\RomanosToArab\obj\Debug\net48\RomanosToArab.csproj.CoreCompileInputs.cache
+G:\Мой диск\DAM2\DI\rTOa\RomanosToArab\RomanosToArab\bin\Debug\net48\RomanosToArab.exe.config
+G:\Мой диск\DAM2\DI\rTOa\RomanosToArab\RomanosToArab\bin\Debug\net48\RomanosToArab.exe
+G:\Мой диск\DAM2\DI\rTOa\RomanosToArab\RomanosToArab\bin\Debug\net48\RomanosToArab.pdb
+G:\Мой диск\DAM2\DI\rTOa\RomanosToArab\RomanosToArab\obj\Debug\net48\RomanosToArab.exe
+G:\Мой диск\DAM2\DI\rTOa\RomanosToArab\RomanosToArab\obj\Debug\net48\RomanosToArab.pdb
+G:\Мой диск\DAM2\DI\rTOa\RomanosToArab\RomanosToArab\obj\Debug\net48\RomanosToArab.csproj.SuggestedBindingRedirects.cache

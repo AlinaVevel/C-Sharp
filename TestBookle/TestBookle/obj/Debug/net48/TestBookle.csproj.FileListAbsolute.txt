@@ -1,0 +1,17 @@
+C:\Users\Alina\Desktop\FP 1\TestBookle\TestBookle\bin\Debug\net48\NUnit3.TestAdapter.dll
+C:\Users\Alina\Desktop\FP 1\TestBookle\TestBookle\bin\Debug\net48\NUnit3.TestAdapter.pdb
+C:\Users\Alina\Desktop\FP 1\TestBookle\TestBookle\bin\Debug\net48\nunit.engine.dll
+C:\Users\Alina\Desktop\FP 1\TestBookle\TestBookle\bin\Debug\net48\nunit.engine.api.dll
+C:\Users\Alina\Desktop\FP 1\TestBookle\TestBookle\bin\Debug\net48\nunit.engine.core.dll
+C:\Users\Alina\Desktop\FP 1\TestBookle\TestBookle\bin\Debug\net48\TestBookle.dll
+C:\Users\Alina\Desktop\FP 1\TestBookle\TestBookle\bin\Debug\net48\TestBookle.pdb
+C:\Users\Alina\Desktop\FP 1\TestBookle\TestBookle\bin\Debug\net48\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Alina\Desktop\FP 1\TestBookle\TestBookle\bin\Debug\net48\nunit.framework.dll
+C:\Users\Alina\Desktop\FP 1\TestBookle\TestBookle\obj\Debug\net48\TestBookle.csproj.AssemblyReference.cache
+C:\Users\Alina\Desktop\FP 1\TestBookle\TestBookle\obj\Debug\net48\TestBookle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alina\Desktop\FP 1\TestBookle\TestBookle\obj\Debug\net48\TestBookle.AssemblyInfoInputs.cache
+C:\Users\Alina\Desktop\FP 1\TestBookle\TestBookle\obj\Debug\net48\TestBookle.AssemblyInfo.cs
+C:\Users\Alina\Desktop\FP 1\TestBookle\TestBookle\obj\Debug\net48\TestBookle.csproj.CoreCompileInputs.cache
+C:\Users\Alina\Desktop\FP 1\TestBookle\TestBookle\obj\Debug\net48\TestBookle.csproj.CopyComplete
+C:\Users\Alina\Desktop\FP 1\TestBookle\TestBookle\obj\Debug\net48\TestBookle.dll
+C:\Users\Alina\Desktop\FP 1\TestBookle\TestBookle\obj\Debug\net48\TestBookle.pdb

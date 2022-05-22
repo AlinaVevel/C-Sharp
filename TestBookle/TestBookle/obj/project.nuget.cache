@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "e5oiWQIWeYNw6cfmekshd3l8KnTEXwo2AswredwgZ2t+73EdtnTldWcy6Vbfp7+DtEOiDCpZwrhCP/aky/f5pQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alina\\Desktop\\FP 1\\TestBookle\\TestBookle\\TestBookle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alina\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
+    "C:\\Users\\Alina\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
+    "C:\\Users\\Alina\\.nuget\\packages\\microsoft.net.test.sdk\\16.9.4\\microsoft.net.test.sdk.16.9.4.nupkg.sha512",
+    "C:\\Users\\Alina\\.nuget\\packages\\nunit\\3.13.1\\nunit.3.13.1.nupkg.sha512",
+    "C:\\Users\\Alina\\.nuget\\packages\\nunit3testadapter\\3.17.0\\nunit3testadapter.3.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}

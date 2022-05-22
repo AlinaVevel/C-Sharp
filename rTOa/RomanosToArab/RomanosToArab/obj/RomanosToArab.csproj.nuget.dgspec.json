@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Мой диск\\DAM2\\DI\\rTOa\\RomanosToArab\\RomanosToArab\\RomanosToArab.csproj": {}
+  },
+  "projects": {
+    "G:\\Мой диск\\DAM2\\DI\\rTOa\\RomanosToArab\\RomanosToArab\\RomanosToArab.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Мой диск\\DAM2\\DI\\rTOa\\RomanosToArab\\RomanosToArab\\RomanosToArab.csproj",
+        "projectName": "RomanosToArab",
+        "projectPath": "G:\\Мой диск\\DAM2\\DI\\rTOa\\RomanosToArab\\RomanosToArab\\RomanosToArab.csproj",
+        "packagesPath": "C:\\Users\\alina\\.nuget\\packages\\",
+        "outputPath": "G:\\Мой диск\\DAM2\\DI\\rTOa\\RomanosToArab\\RomanosToArab\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.1.21463.6\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
