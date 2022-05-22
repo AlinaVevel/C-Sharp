@@ -1,0 +1,16 @@
+G:\Мой диск\DAM2\DI\Impuesto3\Impuesto3\Impuesto3\bin\Debug\net5.0\Impuesto3.exe
+G:\Мой диск\DAM2\DI\Impuesto3\Impuesto3\Impuesto3\bin\Debug\net5.0\Impuesto3.deps.json
+G:\Мой диск\DAM2\DI\Impuesto3\Impuesto3\Impuesto3\bin\Debug\net5.0\Impuesto3.runtimeconfig.json
+G:\Мой диск\DAM2\DI\Impuesto3\Impuesto3\Impuesto3\bin\Debug\net5.0\Impuesto3.runtimeconfig.dev.json
+G:\Мой диск\DAM2\DI\Impuesto3\Impuesto3\Impuesto3\bin\Debug\net5.0\Impuesto3.dll
+G:\Мой диск\DAM2\DI\Impuesto3\Impuesto3\Impuesto3\bin\Debug\net5.0\ref\Impuesto3.dll
+G:\Мой диск\DAM2\DI\Impuesto3\Impuesto3\Impuesto3\bin\Debug\net5.0\Impuesto3.pdb
+G:\Мой диск\DAM2\DI\Impuesto3\Impuesto3\Impuesto3\obj\Debug\net5.0\Impuesto3.csproj.AssemblyReference.cache
+G:\Мой диск\DAM2\DI\Impuesto3\Impuesto3\Impuesto3\obj\Debug\net5.0\Impuesto3.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\DAM2\DI\Impuesto3\Impuesto3\Impuesto3\obj\Debug\net5.0\Impuesto3.AssemblyInfoInputs.cache
+G:\Мой диск\DAM2\DI\Impuesto3\Impuesto3\Impuesto3\obj\Debug\net5.0\Impuesto3.AssemblyInfo.cs
+G:\Мой диск\DAM2\DI\Impuesto3\Impuesto3\Impuesto3\obj\Debug\net5.0\Impuesto3.csproj.CoreCompileInputs.cache
+G:\Мой диск\DAM2\DI\Impuesto3\Impuesto3\Impuesto3\obj\Debug\net5.0\Impuesto3.dll
+G:\Мой диск\DAM2\DI\Impuesto3\Impuesto3\Impuesto3\obj\Debug\net5.0\ref\Impuesto3.dll
+G:\Мой диск\DAM2\DI\Impuesto3\Impuesto3\Impuesto3\obj\Debug\net5.0\Impuesto3.pdb
+G:\Мой диск\DAM2\DI\Impuesto3\Impuesto3\Impuesto3\obj\Debug\net5.0\Impuesto3.genruntimeconfig.cache

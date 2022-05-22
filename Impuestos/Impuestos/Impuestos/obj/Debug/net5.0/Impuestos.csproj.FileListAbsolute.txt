@@ -1,0 +1,16 @@
+G:\Мой диск\DAM2\DI\Impuestos\Impuestos\Impuestos\obj\Debug\net5.0\Impuestos.csproj.AssemblyReference.cache
+G:\Мой диск\DAM2\DI\Impuestos\Impuestos\Impuestos\obj\Debug\net5.0\Impuestos.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\DAM2\DI\Impuestos\Impuestos\Impuestos\obj\Debug\net5.0\Impuestos.AssemblyInfoInputs.cache
+G:\Мой диск\DAM2\DI\Impuestos\Impuestos\Impuestos\obj\Debug\net5.0\Impuestos.AssemblyInfo.cs
+G:\Мой диск\DAM2\DI\Impuestos\Impuestos\Impuestos\obj\Debug\net5.0\Impuestos.csproj.CoreCompileInputs.cache
+G:\Мой диск\DAM2\DI\Impuestos\Impuestos\Impuestos\bin\Debug\net5.0\Impuestos.exe
+G:\Мой диск\DAM2\DI\Impuestos\Impuestos\Impuestos\bin\Debug\net5.0\Impuestos.deps.json
+G:\Мой диск\DAM2\DI\Impuestos\Impuestos\Impuestos\bin\Debug\net5.0\Impuestos.runtimeconfig.json
+G:\Мой диск\DAM2\DI\Impuestos\Impuestos\Impuestos\bin\Debug\net5.0\Impuestos.runtimeconfig.dev.json
+G:\Мой диск\DAM2\DI\Impuestos\Impuestos\Impuestos\bin\Debug\net5.0\Impuestos.dll
+G:\Мой диск\DAM2\DI\Impuestos\Impuestos\Impuestos\bin\Debug\net5.0\ref\Impuestos.dll
+G:\Мой диск\DAM2\DI\Impuestos\Impuestos\Impuestos\bin\Debug\net5.0\Impuestos.pdb
+G:\Мой диск\DAM2\DI\Impuestos\Impuestos\Impuestos\obj\Debug\net5.0\Impuestos.dll
+G:\Мой диск\DAM2\DI\Impuestos\Impuestos\Impuestos\obj\Debug\net5.0\ref\Impuestos.dll
+G:\Мой диск\DAM2\DI\Impuestos\Impuestos\Impuestos\obj\Debug\net5.0\Impuestos.pdb
+G:\Мой диск\DAM2\DI\Impuestos\Impuestos\Impuestos\obj\Debug\net5.0\Impuestos.genruntimeconfig.cache
