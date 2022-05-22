@@ -1,0 +1,13 @@
+C:\Users\alumno\Documents\Interfaces\Libreria2\Libreria\Libreria\bin\Debug\Libreria.exe.config
+C:\Users\alumno\Documents\Interfaces\Libreria2\Libreria\Libreria\bin\Debug\Libreria.exe
+C:\Users\alumno\Documents\Interfaces\Libreria2\Libreria\Libreria\bin\Debug\Libreria.pdb
+C:\Users\alumno\Documents\Interfaces\Libreria2\Libreria\Libreria\obj\Debug\Libreria.csproj.AssemblyReference.cache
+C:\Users\alumno\Documents\Interfaces\Libreria2\Libreria\Libreria\obj\Debug\Libreria.Autores.resources
+C:\Users\alumno\Documents\Interfaces\Libreria2\Libreria\Libreria\obj\Debug\Libreria.Form1.resources
+C:\Users\alumno\Documents\Interfaces\Libreria2\Libreria\Libreria\obj\Debug\Libreria.Libreria.resources
+C:\Users\alumno\Documents\Interfaces\Libreria2\Libreria\Libreria\obj\Debug\Libreria.Libros.resources
+C:\Users\alumno\Documents\Interfaces\Libreria2\Libreria\Libreria\obj\Debug\Libreria.Properties.Resources.resources
+C:\Users\alumno\Documents\Interfaces\Libreria2\Libreria\Libreria\obj\Debug\Libreria.csproj.GenerateResource.cache
+C:\Users\alumno\Documents\Interfaces\Libreria2\Libreria\Libreria\obj\Debug\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Documents\Interfaces\Libreria2\Libreria\Libreria\obj\Debug\Libreria.exe
+C:\Users\alumno\Documents\Interfaces\Libreria2\Libreria\Libreria\obj\Debug\Libreria.pdb

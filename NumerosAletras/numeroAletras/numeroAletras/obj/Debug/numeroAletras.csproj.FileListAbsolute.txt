@@ -1,0 +1,11 @@
+D:\Interfaces\NumerosAletras\numeroAletras\numeroAletras\bin\Debug\numeroAletras.exe.config
+D:\Interfaces\NumerosAletras\numeroAletras\numeroAletras\bin\Debug\numeroAletras.exe
+D:\Interfaces\NumerosAletras\numeroAletras\numeroAletras\bin\Debug\numeroAletras.pdb
+D:\Interfaces\NumerosAletras\numeroAletras\numeroAletras\obj\Debug\numeroAletras.csproj.AssemblyReference.cache
+D:\Interfaces\NumerosAletras\numeroAletras\numeroAletras\obj\Debug\numeroAletras.csproj.SuggestedBindingRedirects.cache
+D:\Interfaces\NumerosAletras\numeroAletras\numeroAletras\obj\Debug\numeroAletras.Form1.resources
+D:\Interfaces\NumerosAletras\numeroAletras\numeroAletras\obj\Debug\numeroAletras.Properties.Resources.resources
+D:\Interfaces\NumerosAletras\numeroAletras\numeroAletras\obj\Debug\numeroAletras.csproj.GenerateResource.cache
+D:\Interfaces\NumerosAletras\numeroAletras\numeroAletras\obj\Debug\numeroAletras.csproj.CoreCompileInputs.cache
+D:\Interfaces\NumerosAletras\numeroAletras\numeroAletras\obj\Debug\numeroAletras.exe
+D:\Interfaces\NumerosAletras\numeroAletras\numeroAletras\obj\Debug\numeroAletras.pdb
