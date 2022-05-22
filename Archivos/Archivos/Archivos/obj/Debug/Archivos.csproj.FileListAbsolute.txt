@@ -1,0 +1,11 @@
+D:\Interfaces\Archivos\Archivos\Archivos\bin\Debug\Archivos.exe.config
+D:\Interfaces\Archivos\Archivos\Archivos\bin\Debug\Archivos.exe
+D:\Interfaces\Archivos\Archivos\Archivos\bin\Debug\Archivos.pdb
+D:\Interfaces\Archivos\Archivos\Archivos\obj\Debug\Archivos.csproj.AssemblyReference.cache
+D:\Interfaces\Archivos\Archivos\Archivos\obj\Debug\Archivos.csproj.SuggestedBindingRedirects.cache
+D:\Interfaces\Archivos\Archivos\Archivos\obj\Debug\Archivos.Form1.resources
+D:\Interfaces\Archivos\Archivos\Archivos\obj\Debug\Archivos.Properties.Resources.resources
+D:\Interfaces\Archivos\Archivos\Archivos\obj\Debug\Archivos.csproj.GenerateResource.cache
+D:\Interfaces\Archivos\Archivos\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+D:\Interfaces\Archivos\Archivos\Archivos\obj\Debug\Archivos.exe
+D:\Interfaces\Archivos\Archivos\Archivos\obj\Debug\Archivos.pdb
